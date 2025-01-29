@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kourjot" alt="kourjot" /></a> </p>
 <h4>
-I am a Backend DevOps engineer with expertise in Node.js, Express, MongoDB, Redis, Docker, and JavaScript. I specialize in developing scalable backend systems, optimizing performance, and implementing efficient caching solutions.</h4>
+I am a Backend  engineer with expertise in Node.js, Express, MongoDB, Redis, Docker, and JavaScript. I specialize in developing scalable backend systems, optimizing performance, and implementing efficient caching solutions.</h4>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js,Express js,Socket.io**
