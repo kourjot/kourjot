@@ -10,40 +10,32 @@
 </h4>
 
 <p align="center">
-  <a href="https://twitter.com/kourjot" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a>
-  <a href="https://www.linkedin.com/in/kourjot/" target="blank">
+  
+  <a href="https://www.linkedin.com/in/jot-kaur-554043315/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/kourjot" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  
 </p>
 
 - 🌱 I’m currently learning *Express.js* and *Socket.IO*
 
-- 👨‍💻 All of my projects are available at: [My Portfolio](https://kourjot.netlify.app/)
+- 👨‍💻 All of my projects are available at: [My Portfolio](https://jotkour.netlify.app/)
 
 - 💬 Ask me about *Node.js, **JavaScript, and **Backend Development*
 
 - 📫 Reach me at: *kourjot@example.com*
 
-- 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67862a91f7b3074e9127867d)
+- 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=679a5182565a02c8eb01c17b)
 
 ---
 
 ### 🚀 *Connect with Me*:
 <p align="center">
-  <a href="https://linkedin.com/in/kourjot" target="blank">
+  <a href="https://www.linkedin.com/in/jot-kaur-554043315/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kourjot" height="40" width="40" />
   </a>
-  <a href="https://instagram.com/kourjot" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kourjot" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/kourjot" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kourjot" height="40" width="40" />
-  </a>
+ 
+
 </p>
 
 ---
@@ -87,7 +79,7 @@
 ---
 
 ### 📜 *Resume*:
-- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67862a91f7b3074e9127867d)
+- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=679a5182565a02c8eb01c17b)
 
 ---
 
@@ -110,5 +102,5 @@ Feel free to reach out for collaboration, learning, or just a friendly chat abou
 
 #### *Contact Me*:
 - 📧 Email: *kourjot@example.com*
-- 🌐 Website: [Jot's Portfolio](https://kourjot.netlify.app/)
+- 🌐 Website: [Jot's Portfolio](https://jotkour.netlify.app/)
 
