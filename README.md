@@ -23,7 +23,7 @@
 
 - 💬 Ask me about *Node.js, **JavaScript, and **Backend Development*
 
-- 📫 Reach me at: *kourjot@example.com*
+- 📫 Reach me at: *pkour6188@gmail.com*
 
 - 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=679a5182565a02c8eb01c17b)
 
@@ -101,6 +101,6 @@ Feel free to reach out for collaboration, learning, or just a friendly chat abou
 ---
 
 #### *Contact Me*:
-- 📧 Email: *kourjot@example.com*
+- 📧 Email: *pkour6188@gmail.com*
 - 🌐 Website: [Jot's Portfolio](https://jotkour.netlify.app/)
 
