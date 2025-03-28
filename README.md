@@ -17,7 +17,7 @@
   
 </p>
 
-- 🌱 I’m currently learning *Express.js* and *Socket.IO*
+- 🌱 I’m currently learning *Express.js* and *Node.js*
 
 - 👨‍💻 All of my projects are available at: [My Portfolio](https://jotkour.netlify.app/)
 
