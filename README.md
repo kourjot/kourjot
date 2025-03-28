@@ -25,7 +25,7 @@
 
 - 📫 Reach me at: *pkour6188@gmail.com*
 
-- 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=679a5182565a02c8eb01c17b)
+- 📄 [Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67d950ce3bc96bedb0bf5cc5)
 
 ---
 
@@ -79,7 +79,7 @@
 ---
 
 ### 📜 *Resume*:
-- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=679a5182565a02c8eb01c17b)
+- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67d950ce3bc96bedb0bf5cc5)
 
 ---
 
