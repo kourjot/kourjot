@@ -25,7 +25,8 @@
 
 - 📫 Reach me at: *pkour6188@gmail.com*
 
-- 📄 [Resume](https://drive.google.com/file/d/10046KKxdJNToEkxovoTizWiUGGgRVZ9F/view?usp=drivesdk)
+-📄 [Resume](https://drive.google.com/uc?export=download&id=10046KKxdJNToEkxovoTizWiUGGgRVZ9F)
+
 
 ---
 
