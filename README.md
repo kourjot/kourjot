@@ -68,7 +68,7 @@
 ### 🔥 *GitHub Streak*:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kourjot&" alt="kourjot" />
+  <img src="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67d950ce3bc96bedb0bf5cc5" />
 </p>
 
 ---
