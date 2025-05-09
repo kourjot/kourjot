@@ -80,7 +80,7 @@
 ---
 
 ### 📜 *Resume*:
-- My resume is available for download: [Click here to view](https://drive.google.com/file/d/10046KKxdJNToEkxovoTizWiUGGgRVZ9F/view?usp=drivesdk)
+- My resume is available for download: [Click here to view](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67d950ce3bc96bedb0bf5cc5)
 
 ---
 
